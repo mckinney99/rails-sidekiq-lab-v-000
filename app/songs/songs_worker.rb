@@ -1,0 +1,3 @@
+class SongsWorker
+  require 'csv'
+  
